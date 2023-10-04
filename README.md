@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, I'm Zaw Htet Aung 👋
 
-<!--
-**dev-zha/dev-zha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Web and Mobile Developer with a love for creating innovative and user-friendly applications.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React
+- 📫 How to reach me: zawhtetaung21199@gmail.com
+- 😄 Pronouns: [ဇော်ထက်အောင်](https://www.howtopronounce.com/zaw-htet-aung)
+
+## 💼 Skills
+
+| Frontend           | Backend            | Mobile Development | Databases          | Tools & DevOps     |
+|--------------------|--------------------|--------------------|--------------------|--------------------|
+| React.js           | PHP (Laravel)      | React Native       | SQL (MySQL, PostgreSQL)  | Git & GitHub |
+| Tailwind (CSS)     | Node.js            | Kotlin (Android)   | NoSQL (MongoDB, Firebase) | Docker       |
+| Bootstrap (CSS)    | Nest.js            |                    | ORM (Prisma)       |                    |
+| Vue.js             |                    |                    |                    |                    |
