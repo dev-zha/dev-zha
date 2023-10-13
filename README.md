@@ -5,7 +5,8 @@ I'm a passionate Web and Mobile Developer with a love for creating innovative an
 
 - 🌱 I’m currently learning React
 - 📫 How to reach me: zawhtetaung21199@gmail.com
-- 😄 Pronouns: [ဇော်ထက်အောင်](https://www.howtopronounce.com/zaw-htet-aung)
+- 😄 Pronouns: He/his
+- 📢 Name Pronunciation: [ဇော်ထက်အောင်](https://www.howtopronounce.com/zaw-htet-aung)
 
 ## 💼 Skills
 
@@ -13,5 +14,5 @@ I'm a passionate Web and Mobile Developer with a love for creating innovative an
 |--------------------|--------------------|--------------------|--------------------|--------------------|
 | React.js           | PHP (Laravel)      | React Native       | SQL (MySQL, PostgreSQL)  | Git & GitHub |
 | Tailwind (CSS)     | Node.js            | Kotlin (Android)   | NoSQL (MongoDB, Firebase) | Docker       |
-| Bootstrap (CSS)    | Nest.js            |                    | ORM (Prisma)       |                    |
+| Bootstrap (CSS)    | Nest.js            | Flutter            | ORM (Prisma)       |                    |
 | Vue.js             |                    |                    |                    |                    |
