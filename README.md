@@ -14,5 +14,5 @@ I'm a passionate Web and Mobile Developer with a love for creating innovative an
 |--------------------|--------------------|--------------------|--------------------|--------------------|
 | React.js           | PHP (Laravel)      | React Native       | SQL (MySQL, PostgreSQL)  | Git & GitHub |
 | Vue.js             | Node.js            | Kotlin (Android)   | NoSQL (MongoDB, Firebase) | Docker       |
-| Tailwind (CSS)     | Nest.js            | Flutter            | ORM (Prisma)       |                    |
+| Tailwind (CSS)     | Express.js         | Flutter            | ORM (Prisma)       |                    |
 | Bootstrap (CSS)    |                    |                    |                    |                    |
